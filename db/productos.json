@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "timestamp": "Sat Oct 08 2022",
+    "title": "SMART TV SAMSUNG",
+    "descripcion": "UHD 50PULG",
+    "codigo": "AU7000",
+    "thumbnail": "https://samsungar.vtexassets.com/arquivos/ids/180361-1200-auto?width=1200&height=auto&aspect=true",
+    "price": 1250,
+    "stock": 20
+  },
+  {
+    "id": 2,
+    "timestamp": "Sat Oct 08 2022",
+    "title": "SMARTPHONE SAMSUNG",
+    "descripcion": "GALAXY S22",
+    "codigo": "SMT354",
+    "thumbnail": "https://samsungar.vtexassets.com/arquivos/ids/184295-1200-auto?width=1200&height=auto&aspect=true",
+    "price": 1000,
+    "stock": 20
+  },
+  {
+    "id": 3,
+    "timestamp": "Sat Oct 08 2022",
+    "title": "TABLET GALAXY",
+    "descripcion": "TAB8 128GB",
+    "codigo": "TB734",
+    "thumbnail": "https://samsungar.vtexassets.com/arquivos/ids/181329-1200-auto?width=1200&height=auto&aspect=true",
+    "price": 1000,
+    "stock": 20
+  },
+  {
+    "id": 4,
+    "descripcion": "LED 24PULG",
+    "codigo": "AU7001",
+    "price": 375,
+    "stock": 10,
+    "thumbnail": "https://samsungar.vtexassets.com/arquivos/ids/169038-1200-auto?width=1200&height=auto&aspect=true",
+    "timestamp": "2022-10-09T23:52:48.031Z"
+  }
+]
