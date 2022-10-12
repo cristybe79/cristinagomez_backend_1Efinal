@@ -5,7 +5,7 @@ const controladorCarrito = require('../controlers/controlers.carrito')
 router.post('/', controladorCarrito.creaCarrito)
 router.get('/:id/productos', controladorCarrito.traeCarrito)
 
-router.put('/:id/productos', controladorCarrito.agregaProductos)
+router.post('/:id/productos', controladorCarrito.agregaProductos)
 
 router.delete('/:id', controladorCarrito.eliminaCarrito)
 router.delete('/:id/productos/:id_prod', controladorCarrito.eliminaItmesId)

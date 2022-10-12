@@ -1,7 +1,19 @@
 [
   {
     "id": 1,
-    "timestamp": "11/10/2022 22:58:37",
+    "timestamp": "12/10/2022 19:52:43",
+    "products": [],
+    "total": 0
+  },
+  {
+    "id": 2,
+    "timestamp": "12/10/2022 20:09:57",
+    "products": [],
+    "total": 0
+  },
+  {
+    "id": 3,
+    "timestamp": "12/10/2022 20:13:26",
     "products": [],
     "total": 0
   }
